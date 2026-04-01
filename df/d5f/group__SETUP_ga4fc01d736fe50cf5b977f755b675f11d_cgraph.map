@@ -1,0 +1,11 @@
+<map id="setup" name="setup">
+<area shape="rect" id="Node000001" title="Inicijalizacija sustava." alt="" coords="5,80,64,105"/>
+<area shape="rect" id="Node000002" href="$d5/d68/group__ISRS.html#ga4a10ad44126f0d33c383c5016c099027" title="ISR za tipku visokog prioriteta (INT0)" alt="" coords="112,5,192,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,77,111,40,117,36,119,40,113,44,57,82"/>
+<area shape="rect" id="Node000003" href="$d5/d68/group__ISRS.html#ga7f522fee2581ff180038ee82a913f28c" title="ISR za tipku srednjeg prioriteta (INT1)" alt="" coords="112,55,192,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="64,84,98,76,99,81,65,89"/>
+<area shape="rect" id="Node000004" href="$d5/d68/group__ISRS.html#ga2c14323da5a13f3958c1ca738ba90f6c" title="ISR za tipku niskog prioriteta (INT2)" alt="" coords="112,104,192,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="65,96,99,103,98,108,64,101"/>
+<area shape="rect" id="Node000005" href="$d5/d68/group__ISRS.html#gada06ab1c4bbd307a9fea75726c8894f1" title="Timer ISR (najviši prioritet)" alt="" coords="114,153,190,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="57,103,120,143,117,148,55,108"/>
+</map>
