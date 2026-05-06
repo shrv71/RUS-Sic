@@ -1,0 +1,5 @@
+[project]
+name = "Lab2-ESP32-DeepSleep-EnergyManagement"
+description = "ESP32 energy management with deep sleep, event-driven and periodic wake-up modes."
+board = "esp32dev"
+main = "main.ino"

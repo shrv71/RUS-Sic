@@ -1,0 +1,147 @@
+======================================
+Lab2 ESP32 Energy Manager - Serial Output
+======================================
+
+=== ESP32 Energy Manager ===
+Boot count: 1
+Wake reason: 0
+[START] Cold boot or reset detected
+[ACTIVE] Running active phase: LED blinking
+[ACTIVE] Active phase complete
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 2
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 1 stored: 23 C, 55 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 3
+Wake reason: 1
+[WAKE] Wake source: external button
+[EVENT] Button press event #1 registered
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 4
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 2 stored: 31 C, 48 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 5
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 3 stored: 25 C, 62 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 6
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 4 stored: 28 C, 51 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 7
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 5 stored: 22 C, 58 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 8
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 6 stored: 29 C, 44 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 9
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 7 stored: 26 C, 67 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 10
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 8 stored: 24 C, 53 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 11
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 9 stored: 21 C, 60 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 12
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 10 stored: 27 C, 56 %
+[REPORT] 10 periodic measurements collected:
+  #01  temp=23 C, hum=55 %
+  #02  temp=31 C, hum=48 %
+  #03  temp=25 C, hum=62 %
+  #04  temp=28 C, hum=51 %
+  #05  temp=22 C, hum=58 %
+  #06  temp=29 C, hum=44 %
+  #07  temp=26 C, hum=67 %
+  #08  temp=24 C, hum=53 %
+  #09  temp=21 C, hum=60 %
+  #10  temp=27 C, hum=56 %
+[REPORT] Measurement buffer reset for next cycle
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 13
+Wake reason: 1
+[WAKE] Wake source: external button
+[EVENT] Button press event #2 registered
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+=== ESP32 Energy Manager ===
+Boot count: 14
+Wake reason: 2
+[WAKE] Wake source: timer
+[TIMER] Measurement 1 stored: 30 C, 49 %
+[PREPARE] Disabling unused peripherals and re-entering sleep
+[SLEEP] Entering deep sleep for 10 seconds or button press
+
+======================================
+End of Serial Output Example
+======================================
+
+Analiza:
+- Boot 1: Inicijalni boot s aktivnom fazom (LED blika 4 s)
+- Boot 2-13: Periodička mjerenja svakih ~10 sekundi
+- Boot 12: Nakon 10 mjerenja, ispsuje se kompletan izvještaj
+- Boot 13: Vanjski prekid (tipka) - događaj registriran uz brojač
+- Buffer se resetira i počinje novi ciklus od Boot 14
+
+Vidljive karakteristike:
+✓ Deep Sleep / Wake ciklus
+✓ Dva mehanizma buđenja (timer + button)
+✓ RTC memorija čuva broja
+✓ Debouncing na vanjskoj tipki
+✓ Periodička mjerenja (simulirana)
+✓ Ispis podataka nakon 10 mjerenja
