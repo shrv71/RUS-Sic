@@ -1,4 +1,25 @@
 var searchData=
 [
-  ['za_20udaljenost_0',['Funkcije za udaljenost',['../d3/d46/group__DISTANCE.html',1,'']]]
+  ['i_20ispitivanje_0',['Dokumentacija i ispitivanje',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md98',1,'']]],
+  ['ignorebounce_20strong_1',['10. &lt;strong&gt;IgnoreBounce&lt;/strong&gt;',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md53',1,'']]],
+  ['implementacija_2',['1. Implementacija',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md6',1,'']]],
+  ['implementacija_20režima_20mirovanja_3',['Implementacija režima mirovanja',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md85',1,'']]],
+  ['implementacije_4',['Sažetak implementacije',['../d8/d32/md_Lab2_2Lab2.html#autotoc_md78',1,'']]],
+  ['indicateled_20strong_5',['9. &lt;strong&gt;IndicateLED&lt;/strong&gt;',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md51',1,'']]],
+  ['interrupt_20service_20routines_6',['Prekidi (Interrupt Service Routines)',['../d5/d68/group__ISRS.html',1,'']]],
+  ['interruptinprogress_7',['interruptInProgress',['../d5/d68/group__ISRS.html#ga5acc10c3564194085240b37ed8bcf613',1,'sketch.ino']]],
+  ['intflag_8',['intFlag',['../d5/d68/group__ISRS.html#ga48d7afa546183db542fc24da0f659461',1,'sketch.ino']]],
+  ['ispis_20primjer_9',['5.1 Serijski ispis (primjer)',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md26',1,'']]],
+  ['ispitivanje_10',['Dokumentacija i ispitivanje',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md98',1,'']]],
+  ['isr_20ova_11',['Redoslijed izvršavanja ISR-ova',['../index.html#autotoc_md1',1,'']]],
+  ['isr_20ova_20s_20logičkim_20analizatorom_12',['Testiranje ISR-ova s logičkim analizatorom',['../index.html',1,'']]],
+  ['isr_5fint0_13',['ISR_INT0',['../d5/d68/group__ISRS.html#ga4a10ad44126f0d33c383c5016c099027',1,'sketch.ino']]],
+  ['isr_5fint1_14',['ISR_INT1',['../d5/d68/group__ISRS.html#ga7f522fee2581ff180038ee82a913f28c',1,'sketch.ino']]],
+  ['isr_5fint2_15',['ISR_INT2',['../d5/d68/group__ISRS.html#ga2c14323da5a13f3958c1ca738ba90f6c',1,'sketch.ino']]],
+  ['istraživanje_20različitih_20razina_20režima_20mirovanja_16',['Istraživanje različitih razina režima mirovanja',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md94',1,'']]],
+  ['iz_20režima_20mirovanja_17',['Uvjeti za buđenje iz režima mirovanja',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md90',1,'']]],
+  ['izazov_3a_20odbijanje_20kontakta_20debouncing_18',['Izazov: odbijanje kontakta (debouncing)',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md106',1,'']]],
+  ['izvještaj_20–_20upravljanje_20potrošnjom_20energije_20na_20esp32_19',['Lab 2 Izvještaj – Upravljanje potrošnjom energije na ESP32',['../dd/d6e/md_Lab2_2docs_2report.html',1,'']]],
+  ['izvršavanja_20',['2.2 Tok izvršavanja',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md15',1,'']]],
+  ['izvršavanja_20isr_20ova_21',['Redoslijed izvršavanja ISR-ova',['../index.html#autotoc_md1',1,'']]]
 ];

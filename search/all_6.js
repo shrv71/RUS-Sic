@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['glavna_20petlja_0',['Glavna petlja',['../dc/d73/group__LOOP.html',1,'']]],
-  ['graph_20cfg_1',['Control Flow Graph (CFG)',['../index.html#autotoc_md2',1,'']]]
+  ['7_20strong_20checkstable_20strong_20decision_0',['7. &lt;strong&gt;CheckStable&lt;/strong&gt; (Decision)',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md47',1,'']]],
+  ['7_20zaključak_1',['7. Zaključak',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md30',1,'']]]
 ];

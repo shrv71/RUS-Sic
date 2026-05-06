@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['pametni_20poštanski_20sandučić_0',['Varijanta A: Event-Driven (Pametni poštanski sandučić)',['../d8/d32/md_Lab2_2Lab2.html#autotoc_md72',1,'']]],
+  ['pametni_20poštanski_20sandučić_20event_20driven_1',['1. Varijanta: Pametni poštanski sandučić (event-driven)',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md103',1,'']]],
+  ['periodičko_20buđenje_2',['2. Varijanta: Datalogger okoliša (periodičko buđenje)',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md109',1,'']]],
+  ['periodic_20wake_20up_20datalogger_3',['Varijanta B: Periodic Wake-up (Datalogger)',['../d8/d32/md_Lab2_2Lab2.html#autotoc_md73',1,'']]],
+  ['petlja_4',['Glavna petlja',['../dc/d73/group__LOOP.html',1,'']]],
+  ['poštanski_20sandučić_5',['Varijanta A: Event-Driven (Pametni poštanski sandučić)',['../d8/d32/md_Lab2_2Lab2.html#autotoc_md72',1,'']]],
+  ['poštanski_20sandučić_20event_20driven_6',['1. Varijanta: Pametni poštanski sandučić (event-driven)',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md103',1,'']]],
+  ['podataka_7',['Obrada podataka',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md114',1,'']]],
+  ['podzadatci_8',['Podzadatci',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md102',1,'']]],
+  ['pokrenuti_20simulaciju_9',['Kako pokrenuti simulaciju',['../d8/d32/md_Lab2_2Lab2.html#autotoc_md76',1,'']]],
+  ['potrošnje_20energije_10',['3. Teorijska analiza potrošnje energije',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md18',1,'']]],
+  ['potrošnjom_20energije_20mikrokontrolera_11',['Upravljanje potrošnjom energije mikrokontrolera',['../d8/d96/md_Lab2_2Labos2.html',1,'']]],
+  ['potrošnjom_20energije_20na_20esp32_12',['potrošnjom energije na esp32',['../d8/d32/md_Lab2_2Lab2.html',1,'Lab 2 – Upravljanje potrošnjom energije na ESP32'],['../dd/d6e/md_Lab2_2docs_2report.html',1,'Lab 2 Izvještaj – Upravljanje potrošnjom energije na ESP32']]],
+  ['predaja_20rada_13',['Predaja rada',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md118',1,'']]],
+  ['prekidi_20interrupt_20service_20routines_14',['Prekidi (Interrupt Service Routines)',['../d5/d68/group__ISRS.html',1,'']]],
+  ['preparesleep_20strong_15',['3. &lt;strong&gt;PrepareSleep&lt;/strong&gt;',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md39',1,'']]],
+  ['preporuke_20za_20daljnjih_20rad_16',['6. Preporuke za daljnjih rad',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md28',1,'']]],
+  ['pretpostavke_17',['3.1 Pretpostavke',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md19',1,'']]],
+  ['primjer_18',['5.1 Serijski ispis (primjer)',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md26',1,'']]],
+  ['printmeasurements_19',['printmeasurements',['../d5/d08/src_2main_8ino.html#a632e199e1e1fc95c82424302e2452eaf',1,'printMeasurements():&#160;main.ino'],['../d8/dff/wokwi_2main_8ino.html#a632e199e1e1fc95c82424302e2452eaf',1,'printMeasurements():&#160;main.ino']]],
+  ['printreport_20strong_20',['15. &lt;strong&gt;PrintReport&lt;/strong&gt;',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md63',1,'']]],
+  ['programa_21',['programa',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md13',1,'2. Arhitektura programa'],['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md67',1,'Glavni tok programa']]],
+  ['prosječna_20struja_22',['3.2 Prosječna struja',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md20',1,'']]]
+];

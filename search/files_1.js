@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sketch_2eino_0',['sketch.ino',['../da/d98/sketch_8ino.html',1,'']]]
+  ['main_2eino_0',['main.ino',['../d5/d08/src_2main_8ino.html',1,'(Global Namespace)'],['../d8/dff/wokwi_2main_8ino.html',1,'(Global Namespace)']]]
 ];

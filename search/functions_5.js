@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['setup_0',['setup',['../df/d5f/group__SETUP.html#ga4fc01d736fe50cf5b977f755b675f11d',1,'sketch.ino']]]
+  ['measuredistance_0',['measureDistance',['../d3/d46/group__DISTANCE.html#ga24db61917b9da8bb4b87af136cbd345f',1,'sketch.ino']]]
 ];

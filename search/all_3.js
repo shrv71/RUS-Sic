@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['debounce_5fdelay_0',['DEBOUNCE_DELAY',['../d5/d68/group__ISRS.html#gafab009ca7fd4cf805d5f2d5fc1af8a17',1,'sketch.ino']]],
-  ['događaja_1',['Obrada događaja',['../da/d0b/group__HANDLERS.html',1,'']]]
+  ['4_20ograničenja_20simulacije_20u_20wokwi_20u_0',['4. Ograničenja simulacije u Wokwi-u',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md23',1,'']]],
+  ['4_20strong_20deepsleep_20strong_1',['4. &lt;strong&gt;DeepSleep&lt;/strong&gt;',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md41',1,'']]]
 ];

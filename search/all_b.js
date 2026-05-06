@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['obrada_20događaja_0',['Obrada događaja',['../da/d0b/group__HANDLERS.html',1,'']]],
-  ['ontimer_1',['onTimer',['../d5/d68/group__ISRS.html#gada06ab1c4bbd307a9fea75726c8894f1',1,'sketch.ino']]],
-  ['ova_2',['Redoslijed izvršavanja ISR-ova',['../index.html#autotoc_md1',1,'']]],
-  ['ova_20s_20logičkim_20analizatorom_3',['Testiranje ISR-ova s logičkim analizatorom',['../index.html',1,'']]]
+  ['cfg_0',['Control Flow Graph (CFG)',['../index.html#autotoc_md2',1,'']]],
+  ['checkmeasurements_20strong_20decision_1',['14. &lt;strong&gt;CheckMeasurements&lt;/strong&gt; (Decision)',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md61',1,'']]],
+  ['checkstable_20strong_20decision_2',['7. &lt;strong&gt;CheckStable&lt;/strong&gt; (Decision)',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md47',1,'']]],
+  ['cilj_20zadatka_3',['Cilj zadatka',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md82',1,'']]],
+  ['coldboot_20strong_4',['1. &lt;strong&gt;ColdBoot&lt;/strong&gt;',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md35',1,'']]],
+  ['control_20flow_20graph_20cfg_5',['Control Flow Graph (CFG)',['../index.html#autotoc_md2',1,'']]]
 ];
