@@ -12,6 +12,5 @@ var searchData=
   ['tok_20programa_9',['Glavni tok programa',['../d9/d6c/md_Lab2_2docs_2state__diagram.html#autotoc_md67',1,'']]],
   ['totalmeasurements_10',['totalmeasurements',['../d5/d08/src_2main_8ino.html#adb31f0fed2dcfa2a62ee8dd1755ad9b9',1,'totalMeasurements:&#160;main.ino'],['../d8/dff/wokwi_2main_8ino.html#adb31f0fed2dcfa2a62ee8dd1755ad9b9',1,'totalMeasurements:&#160;main.ino']]],
   ['trajanje_20baterije_11',['3.3 Trajanje baterije',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md21',1,'']]],
-  ['treba_20sadržavati_12',['Što treba sadržavati',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md122',1,'']]],
-  ['trig_5fpin_13',['TRIG_PIN',['../d5/d68/group__ISRS.html#ga8eab89acd7dcb0e77e7b00d1749022a6',1,'sketch.ino']]]
+  ['trig_5fpin_12',['TRIG_PIN',['../d5/d68/group__ISRS.html#ga8eab89acd7dcb0e77e7b00d1749022a6',1,'sketch.ino']]]
 ];

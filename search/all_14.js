@@ -6,7 +6,6 @@ var searchData=
   ['measuredistance_3',['measureDistance',['../d3/d46/group__DISTANCE.html#ga24db61917b9da8bb4b87af136cbd345f',1,'sketch.ino']]],
   ['mehanizmi_20buđenja_4',['1.2 Mehanizmi buđenja',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md8',1,'']]],
   ['memorija_5',['2.1 RTC memorija',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md14',1,'']]],
-  ['mikrokontrolera_6',['Upravljanje potrošnjom energije mikrokontrolera',['../d8/d96/md_Lab2_2Labos2.html',1,'']]],
-  ['mirovanja_7',['mirovanja',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md86',1,'1. Konfiguracija režima mirovanja'],['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md7',1,'1.1 Konfiguracija režima mirovanja'],['../d8/d96/md_Lab2_2Labos2.html#autotoc_md85',1,'Implementacija režima mirovanja'],['../d8/d96/md_Lab2_2Labos2.html#autotoc_md94',1,'Istraživanje različitih razina režima mirovanja'],['../d8/d96/md_Lab2_2Labos2.html#autotoc_md90',1,'Uvjeti za buđenje iz režima mirovanja']]],
-  ['mjerenja_8',['2.3 Simulirana mjerenja',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md16',1,'']]]
+  ['mirovanja_6',['1.1 Konfiguracija režima mirovanja',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md7',1,'']]],
+  ['mjerenja_7',['2.3 Simulirana mjerenja',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md16',1,'']]]
 ];

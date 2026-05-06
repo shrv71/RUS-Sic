@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['potrošnjom_20energije_20mikrokontrolera_0',['Upravljanje potrošnjom energije mikrokontrolera',['../d8/d96/md_Lab2_2Labos2.html',1,'']]],
-  ['potrošnjom_20energije_20na_20esp32_1',['potrošnjom energije na esp32',['../d8/d32/md_Lab2_2Lab2.html',1,'Lab 2 – Upravljanje potrošnjom energije na ESP32'],['../dd/d6e/md_Lab2_2docs_2report.html',1,'Lab 2 Izvještaj – Upravljanje potrošnjom energije na ESP32']]]
+  ['s_20logičkim_20analizatorom_0',['Testiranje ISR-ova s logičkim analizatorom',['../index.html',1,'']]],
+  ['stanja_20sustava_1',['Dijagram stanja sustava',['../d9/d6c/md_Lab2_2docs_2state__diagram.html',1,'']]],
+  ['sustava_2',['Dijagram stanja sustava',['../d9/d6c/md_Lab2_2docs_2state__diagram.html',1,'']]]
 ];

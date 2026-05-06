@@ -90,55 +90,6 @@ var NAVTREE =
       [ "Ključne funkcije", "d8/d32/md_Lab2_2Lab2.html#autotoc_md79", null ],
       [ "Dokaz rada", "d8/d32/md_Lab2_2Lab2.html#autotoc_md80", null ]
     ] ],
-    [ "Upravljanje potrošnjom energije mikrokontrolera", "d8/d96/md_Lab2_2Labos2.html", [
-      [ "Cilj zadatka", "d8/d96/md_Lab2_2Labos2.html#autotoc_md82", null ],
-      [ "Okruženje", "d8/d96/md_Lab2_2Labos2.html#autotoc_md83", null ],
-      [ "Implementacija režima mirovanja", "d8/d96/md_Lab2_2Labos2.html#autotoc_md85", [
-        [ "1. Konfiguracija režima mirovanja", "d8/d96/md_Lab2_2Labos2.html#autotoc_md86", null ],
-        [ "2. Osnovna funkcionalnost", "d8/d96/md_Lab2_2Labos2.html#autotoc_md88", null ]
-      ] ],
-      [ "</blockquote>", "d8/d96/md_Lab2_2Labos2.html#autotoc_md89", null ],
-      [ "Uvjeti za buđenje iz režima mirovanja", "d8/d96/md_Lab2_2Labos2.html#autotoc_md90", null ],
-      [ "Efikasno upravljanje energijom", "d8/d96/md_Lab2_2Labos2.html#autotoc_md92", null ],
-      [ "Istraživanje različitih razina režima mirovanja", "d8/d96/md_Lab2_2Labos2.html#autotoc_md94", [
-        [ "Za AVR / Arduino:", "d8/d96/md_Lab2_2Labos2.html#autotoc_md95", null ],
-        [ "Za ESP32:", "d8/d96/md_Lab2_2Labos2.html#autotoc_md96", null ]
-      ] ],
-      [ "</blockquote>", "d8/d96/md_Lab2_2Labos2.html#autotoc_md97", null ],
-      [ "Dokumentacija i ispitivanje", "d8/d96/md_Lab2_2Labos2.html#autotoc_md98", null ],
-      [ "</blockquote>", "d8/d96/md_Lab2_2Labos2.html#autotoc_md99", null ],
-      [ "Wokwi simulator", "d8/d96/md_Lab2_2Labos2.html#autotoc_md100", null ],
-      [ "Podzadatci", "d8/d96/md_Lab2_2Labos2.html#autotoc_md102", [
-        [ "1. Varijanta: Pametni poštanski sandučić (event-driven)", "d8/d96/md_Lab2_2Labos2.html#autotoc_md103", [
-          [ "Scenarij", "d8/d96/md_Lab2_2Labos2.html#autotoc_md104", null ],
-          [ "Zadatak", "d8/d96/md_Lab2_2Labos2.html#autotoc_md105", null ],
-          [ "Izazov: odbijanje kontakta (debouncing)", "d8/d96/md_Lab2_2Labos2.html#autotoc_md106", null ],
-          [ "Zahtjev", "d8/d96/md_Lab2_2Labos2.html#autotoc_md107", null ]
-        ] ],
-        [ "2. Varijanta: Datalogger okoliša (periodičko buđenje)", "d8/d96/md_Lab2_2Labos2.html#autotoc_md109", [
-          [ "Scenarij", "d8/d96/md_Lab2_2Labos2.html#autotoc_md110", null ],
-          [ "Zadatak", "d8/d96/md_Lab2_2Labos2.html#autotoc_md111", null ],
-          [ "ESP32", "d8/d96/md_Lab2_2Labos2.html#autotoc_md112", null ],
-          [ "Arduino", "d8/d96/md_Lab2_2Labos2.html#autotoc_md113", null ],
-          [ "Obrada podataka", "d8/d96/md_Lab2_2Labos2.html#autotoc_md114", null ]
-        ] ],
-        [ "Dodatni zadatak (analiza)", "d8/d96/md_Lab2_2Labos2.html#autotoc_md116", null ]
-      ] ],
-      [ "Predaja rada", "d8/d96/md_Lab2_2Labos2.html#autotoc_md118", [
-        [ "Obavezna struktura", "d8/d96/md_Lab2_2Labos2.html#autotoc_md120", null ],
-        [ "Što treba sadržavati", "d8/d96/md_Lab2_2Labos2.html#autotoc_md122", null ]
-      ] ],
-      [ "Wokwi simulacija", "d8/d96/md_Lab2_2Labos2.html#autotoc_md124", [
-        [ "</blockquote>", "d8/d96/md_Lab2_2Labos2.html#autotoc_md125", null ]
-      ] ],
-      [ "Dokaz rada", "d8/d96/md_Lab2_2Labos2.html#autotoc_md126", null ],
-      [ "Sažetak", "d8/d96/md_Lab2_2Labos2.html#autotoc_md128", [
-        [ "Napomena za ESP korisnike", "d8/d96/md_Lab2_2Labos2.html#autotoc_md130", null ],
-        [ "Završna napomena", "d8/d96/md_Lab2_2Labos2.html#autotoc_md131", [
-          [ "WokWI simulator", "d8/d96/md_Lab2_2Labos2.html#autotoc_md132", null ]
-        ] ]
-      ] ]
-    ] ],
     [ "Topics", "topics.html", "topics" ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],

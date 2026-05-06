@@ -5,7 +5,5 @@ var searchData=
   ['wakeup_20varijanta_20a_2',['External Wakeup (Varijanta A)',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md9',1,'']]],
   ['wakeup_20varijanta_20b_3',['Timer Wakeup (Varijanta B)',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md10',1,'']]],
   ['wokwi_20link_4',['Wokwi link',['../d8/d32/md_Lab2_2Lab2.html#autotoc_md77',1,'']]],
-  ['wokwi_20simulacija_5',['Wokwi simulacija',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md124',1,'']]],
-  ['wokwi_20simulator_6',['wokwi simulator',['../d8/d96/md_Lab2_2Labos2.html#autotoc_md100',1,'Wokwi simulator'],['../d8/d96/md_Lab2_2Labos2.html#autotoc_md132',1,'WokWI simulator']]],
-  ['wokwi_20u_7',['4. Ograničenja simulacije u Wokwi-u',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md23',1,'']]]
+  ['wokwi_20u_5',['4. Ograničenja simulacije u Wokwi-u',['../dd/d6e/md_Lab2_2docs_2report.html#autotoc_md23',1,'']]]
 ];
