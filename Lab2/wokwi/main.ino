@@ -2,7 +2,7 @@
 #include "esp_sleep.h"
 
 #define LED_PIN 2
-#define BUTTON_PIN 0
+#define BUTTON_PIN 4
 #define ACTIVE_DURATION_MS 4000
 #define BLINK_INTERVAL_MS 400
 #define WAKE_DEBOUNCE_MS 50
@@ -54,6 +54,7 @@ void saveFakeMeasurement() {
 
   if (totalMeasurements % MAX_MEASUREMENTS == 0) {
     printMeasurements();
+    totalMeasurements = 0;
   }
 }
 
@@ -84,9 +85,11 @@ void handleTimerWake() {
 
 void enterDeepSleep() {
   Serial.printf("[SLEEP] Entering deep sleep for %d seconds or button press\n", SLEEP_WAKE_SEC);
-
-  esp_sleep_enable_ext0_wakeup(GPIO_NUM_0, 0);
+  //esp_sleep_enable_ext0_wakeup(GPIO_NUM_4, 0);
   esp_sleep_enable_timer_wakeup((uint64_t)SLEEP_WAKE_SEC * 1000000ULL);
+
+  Serial.flush();
+  delay(100);
 
   esp_deep_sleep_start();
 }
