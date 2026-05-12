@@ -119,7 +119,7 @@ Stanja sustava</h1>
 <div class="line">    </div>
 <div class="line">    TimerWakeup --&gt; MeasureData: simulate sensor reading</div>
 <div class="line">    MeasureData --&gt; SaveToRTC: store in RTC buffer</div>
-<div class="line">    SaveToRTC --&gt; CheckMeasurements{10 measurements\ncollected?}</div>
+<div class="line">    SaveToRTC --&gt; CheckMeasurements</div>
 <div class="line">    CheckMeasurements --&gt;|yes| PrintReport: print all data</div>
 <div class="line">    PrintReport --&gt; ResetBuffer: clear buffer</div>
 <div class="line">    CheckMeasurements --&gt;|no| PrepareSleep: continue</div>
