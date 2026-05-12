@@ -26,7 +26,7 @@ stateDiagram-v2
     
     TimerWakeup --> MeasureData: simulate sensor reading
     MeasureData --> SaveToRTC: store in RTC buffer
-    SaveToRTC --> CheckMeasurements{10 measurements\ncollected?}
+    SaveToRTC --> CheckMeasurements
     CheckMeasurements -->|yes| PrintReport: print all data
     PrintReport --> ResetBuffer: clear buffer
     CheckMeasurements -->|no| PrepareSleep: continue
