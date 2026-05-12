@@ -15,7 +15,7 @@ stateDiagram-v2
     DeepSleep --> TimerWakeup: 10 seconds elapsed
     
     ExternalWakeup --> DebouncingDelay: GPIO0 interrupt detected
-    DebouncingDelay --> CheckStable{stable LOW?}
+    DebouncingDelay --> CheckStable
     CheckStable -->|yes| HandleButtonEvent: register event
     CheckStable -->|no| IgnoreBounce: bounce detected
     
