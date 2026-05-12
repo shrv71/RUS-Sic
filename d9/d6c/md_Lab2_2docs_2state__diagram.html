@@ -108,7 +108,7 @@ Stanja sustava</h1>
 <div class="line">    DeepSleep --&gt; TimerWakeup: 10 seconds elapsed</div>
 <div class="line">    </div>
 <div class="line">    ExternalWakeup --&gt; DebouncingDelay: GPIO0 interrupt detected</div>
-<div class="line">    DebouncingDelay --&gt; CheckStable{stable LOW?}</div>
+<div class="line">    DebouncingDelay --&gt; CheckStable</div>
 <div class="line">    CheckStable --&gt;|yes| HandleButtonEvent: register event</div>
 <div class="line">    CheckStable --&gt;|no| IgnoreBounce: bounce detected</div>
 <div class="line">    </div>
@@ -119,7 +119,7 @@ Stanja sustava</h1>
 <div class="line">    </div>
 <div class="line">    TimerWakeup --&gt; MeasureData: simulate sensor reading</div>
 <div class="line">    MeasureData --&gt; SaveToRTC: store in RTC buffer</div>
-<div class="line">    SaveToRTC --&gt; CheckMeasurements{10 measurements\ncollected?}</div>
+<div class="line">    SaveToRTC --&gt; CheckMeasurements</div>
 <div class="line">    CheckMeasurements --&gt;|yes| PrintReport: print all data</div>
 <div class="line">    PrintReport --&gt; ResetBuffer: clear buffer</div>
 <div class="line">    CheckMeasurements --&gt;|no| PrepareSleep: continue</div>
